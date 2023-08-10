@@ -1,0 +1,28 @@
+{
+  "name": "gridCP-Module",
+  "description": "Sample Provisioning Module for WHMCS Billing Automation Platform",
+  "keywords": [
+    "whmcs",
+    "web host automation platform",
+    "provisioning module",
+    "server module"
+  ],
+  "homepage": "http://www.gridCP.com/",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "GridCP Development Team",
+      "email": "it@gridcp.com",
+      "homepage": "https://www.gridcp.com/",
+      "role": "Developer"
+    }
+  ],
+  "support": {
+    "email": "",
+    "forum": "",
+    "wiki": ""
+  },
+  "require-dev": {
+    "phpunit/phpunit": "@stable"
+  }
+}
