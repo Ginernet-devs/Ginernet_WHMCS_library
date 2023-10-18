@@ -1,1 +1,1 @@
-# GridCP-WHMCS
+# Ginernet-WHMCS
